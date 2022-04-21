@@ -7,7 +7,7 @@ The Xiaomi Redmi Note 6 Pro (codenamed _"tulip"_) is a mid-range smartphone from
 | SoC                     | Qualcomm SDM660 Snapdragon 636                              |
 | CPU                     | 8x Qualcomm® Kryo™ 260 CPU                                  |
 | GPU                     | Adreno 509                                                  |
-| Memory                  | 4GB / 6GB RAM (LPDDR4X)                                     |
+| Memory                  | 3GB / 4GB RAM (LPDDR4X)                                     |
 | Shipped Android version | 8.1.0                                                       |
 | Storage                 | 64GB eMMC 5.1 flash storage                                 |
 | MicroSD                 | Up to 256 GB                                                |
