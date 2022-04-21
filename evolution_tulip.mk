@@ -29,7 +29,4 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # Evolution-X things
-EVO_BUILD_TYPE := OFFICIAL
-EVO_MAINTAINER := arturo51236
-EVO_DONATE_URL := https://paypal.me/arturo51236
 EVO_SUPPORT_URL := https://t.me/EvolutionXRn6Pro
