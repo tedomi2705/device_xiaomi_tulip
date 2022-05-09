@@ -10,6 +10,9 @@ dalvik.vm.dex2oat64.enabled=true
 # Netflix
 ro.netflix.bsp_rev=Q660-13149-1
 
+# Pre-Rendering
+ro.vendor.perf.scroll_opt=true
+
 # Radio
 DEVICE_PROVISIONED=1
 persist.sys.fflag.override.settings_network_and_internet_v2=true
